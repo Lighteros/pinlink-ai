@@ -19444,19 +19444,6 @@ function aSe(n) {
                   onClick: n.scrollToTokenomics,
                   children: Me.jsx("span", { children: "Tokenomics" }),
                 }),
-                Me.jsx("div", {
-                  children: Me.jsx(vj, {
-                    to: "/contactUs",
-                    children: Me.jsx("span", { children: "Contact Us" }),
-                  }),
-                }),
-                Me.jsx("div", {
-                  children: Me.jsxs("a", {
-                    href: "https://linktr.ee/PinLinkAi",
-                    target: "_blank",
-                    children: [" ", Me.jsx("span", { children: "Links" })],
-                  }),
-                }),
               ],
             }),
             Me.jsx("div", {
@@ -19464,10 +19451,11 @@ function aSe(n) {
               children: Me.jsx("div", {
                 className: "flex-gap24",
                 children: Me.jsx("a", {
-                  href: "/stake",
+                  href: "https://pinlink-ai-app-cs.vercel.app/",
                   children: Me.jsx($d, {
                     title: "Enter dApp",
                     width: "9rem",
+                    target: "_blank",
                     height: "3rem",
                   }),
                 }),
@@ -19486,13 +19474,6 @@ function aSe(n) {
                       href: "/",
                       className: "logo",
                       children: Me.jsx("img", { src: Tb, alt: "logo" }),
-                    }),
-                  }),
-                  Me.jsx("li", {
-                    children: Me.jsx("a", {
-                      href: "https://linktr.ee/PinLinkAi",
-                      target: "_blank",
-                      children: Me.jsx("span", { children: "Links" }),
                     }),
                   }),
                   Me.jsx("li", {
@@ -19521,17 +19502,12 @@ function aSe(n) {
                   }),
                   Me.jsx("li", {
                     children: Me.jsx("a", {
-                      href: "/contactUs",
-                      children: "Contact Us",
-                    }),
-                  }),
-                  Me.jsx("li", {
-                    children: Me.jsx("a", {
-                      href: "/stake",
+                      href: "https://pinlink-ai-app-cs.vercel.app/",
                       rel: "nofollow noopener noreferrer",
                       children: Me.jsx($d, {
                         title: "Enter dApp",
                         width: "9.5rem",
+                        target: "_blank",
                         height: "3rem",
                       }),
                     }),
@@ -19616,13 +19592,13 @@ function dSe(n) {
                   children: Me.jsx("img", { src: cSe, alt: "icon" }),
                 }),
                 Me.jsx("a", {
-                  href: "https://pinlink.gitbook.io/pinlink",
+                  href: "https://alexeys-organization-9.gitbook.io/pinlink-ai",
                   rel: "nofollow noopener noreferrer",
                   target: "_blank",
                   children: Me.jsx("img", { src: uSe, alt: "icon" }),
                 }),
                 Me.jsx("a", {
-                  href: "https://www.dextools.io/app/en/ether/pair-explorer/0x8d547a3e42828093e31a8c3f2a864036984b64ee?t=1731611253378",
+                  href: "https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000",
                   rel: "nofollow noopener noreferrer",
                   target: "_blank",
                   children: Me.jsx("img", {
@@ -19635,7 +19611,7 @@ function dSe(n) {
             }),
           ],
         }),
-        Me.jsx("p", { children: "© 2024 PinLink • All Rights Reserved" }),
+        Me.jsx("p", { children: "© 2025 PinLink • All Rights Reserved" }),
       ],
     }),
   });
@@ -20915,9 +20891,9 @@ const rUe = "/assets/01-XMyin-J5.png",
         );
     }, []);
     const e = [
-        { text: "Uniswap LP: 80%", img: TUe },
-        { text: "Staking Emissions: 10%", img: CUe },
-        { text: "CEX Reserve: 10%", img: SUe },
+        { text: "Uniswap LP: 94%", img: TUe },
+        { text: "Staking Emissions: 3%", img: CUe },
+        { text: "CEX Reserve: 3%", img: SUe },
       ],
       t = (r) => {
         n.current && clearTimeout(n.current),
@@ -21162,7 +21138,7 @@ const rUe = "/assets/01-XMyin-J5.png",
                         className: "token-desc",
                         children: [
                           Me.jsx("p", { children: "2" }),
-                          "Supply: 100,000,000",
+                          "Supply: 1,000,000,000",
                         ],
                       }),
                       Me.jsxs("div", {
@@ -21197,7 +21173,7 @@ const rUe = "/assets/01-XMyin-J5.png",
                       "Learn More About PinLink’s Unique RWA-Tokenized DePIN Model & How It Reduces Cost & Increases Performance For AI Developers",
                   }),
                   Me.jsx("a", {
-                    href: "https://pinlink.gitbook.io/pinlink",
+                    href: "https://alexeys-organization-9.gitbook.io/pinlink-ai",
                     target: "_blank",
                     className: "button green",
                     children: "Read Docs",
@@ -137120,7 +137096,7 @@ const KAt = dst,
     },
     {
       name: "Stake",
-      path: "/stake",
+      path: "https://pinlink-ai-app-cs.vercel.app/",
       icon: iEt,
       restrictedToConnected: !0,
       comingSoon: !1,
@@ -137238,7 +137214,7 @@ const KAt = dst,
             Me.jsx("div", {
               className:
                 "pb-3 font-['Sora'] text-xs font-extralight text-white lg:pb-0 lg:text-center",
-              children: "© 2024 PinLink • All Rights Reserved",
+              children: "© 2025 PinLink • All Rights Reserved",
             }),
             Me.jsx("a", {
               href: "https://x.com/pinlinkai",
@@ -137253,13 +137229,13 @@ const KAt = dst,
               children: Me.jsx("img", { src: cSe, alt: "tg-icon" }),
             }),
             Me.jsx("a", {
-              href: "https://pinlink.gitbook.io/pinlink",
+              href: "https://alexeys-organization-9.gitbook.io/pinlink-ai",
               rel: "nofollow noopener noreferrer",
               target: "_blank",
               children: Me.jsx("img", { src: uSe, alt: "gitbook-icon" }),
             }),
             Me.jsx("a", {
-              href: "https://www.dextools.io/app/en/ether/pair-explorer/0x8d547a3e42828093e31a8c3f2a864036984b64ee?t=1731611253378",
+              href: "https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000",
               rel: "nofollow noopener noreferrer",
               target: "_blank",
               children: Me.jsx("img", {
@@ -263882,7 +263858,7 @@ function xNt() {
           Me.jsxs(Sw, {
             element: Me.jsx(dEt, {}),
             children: [
-              Me.jsx(Sw, { path: "/stake", element: Me.jsx(yBt, {}) }),
+              Me.jsx(Sw, { path: "https://pinlink-ai-app-cs.vercel.app/", element: Me.jsx(yBt, {}) }),
               Me.jsx(Sw, {
                 path: "/mint",
                 element: Me.jsx(Oxe, { component: Me.jsx(vBt, {}) }),
