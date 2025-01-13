@@ -19447,8 +19447,20 @@ function aSe(n) {
               ],
             }),
             Me.jsx("div", {
+              style: {display: "flex", gap:"12px"},
               className: LD.h5Menu,
-              children: Me.jsx("div", {
+              children: [Me.jsx("div", {
+                className: "flex-gap24",
+                children: Me.jsx("a", {
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xFd3c2eEe51943f8DfDe0B905b532baCDF311d749",
+                  children: Me.jsx($d, {
+                    title: "Buy Now",
+                    width: "9rem",
+                    target: "_blank",
+                    height: "3rem",
+                  }),
+                }),
+              }),Me.jsx("div", {
                 className: "flex-gap24",
                 children: Me.jsx("a", {
                   href: "https://app.pinlink.pro",
@@ -19459,7 +19471,7 @@ function aSe(n) {
                     height: "3rem",
                   }),
                 }),
-              }),
+              })],
             }),
             Me.jsx(iSe, {
               scrollToAbout: n.scrollToAbout,
