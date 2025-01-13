@@ -19451,7 +19451,7 @@ function aSe(n) {
               children: Me.jsx("div", {
                 className: "flex-gap24",
                 children: Me.jsx("a", {
-                  href: "https://pinlink-ai-app-cs.vercel.app/",
+                  href: "https://app.pinlink.pro",
                   children: Me.jsx($d, {
                     title: "Enter dApp",
                     width: "9rem",
@@ -19502,7 +19502,7 @@ function aSe(n) {
                   }),
                   Me.jsx("li", {
                     children: Me.jsx("a", {
-                      href: "https://pinlink-ai-app-cs.vercel.app/",
+                      href: "https://app.pinlink.pro",
                       rel: "nofollow noopener noreferrer",
                       children: Me.jsx($d, {
                         title: "Enter dApp",
@@ -19580,19 +19580,19 @@ function dSe(n) {
               className: `${BD.linkList} flex-gap24`,
               children: [
                 Me.jsx("a", {
-                  href: "https://x.com/pinlinkai",
+                  href: "https://x.com/PinLinkAI_ETH",
                   target: "_blank",
                   rel: "nofollow noopener noreferrer",
                   children: Me.jsx("img", { src: lSe, alt: "icon" }),
                 }),
                 Me.jsx("a", {
-                  href: "https://t.me/Pinlinkai",
+                  href: "https://t.me/PinLinkAI_ETH",
                   rel: "nofollow noopener noreferrer",
                   target: "_blank",
                   children: Me.jsx("img", { src: cSe, alt: "icon" }),
                 }),
                 Me.jsx("a", {
-                  href: "https://alexeys-organization-9.gitbook.io/pinlink-ai",
+                  href: "https://docs.pinlinkai.pro",
                   rel: "nofollow noopener noreferrer",
                   target: "_blank",
                   children: Me.jsx("img", { src: uSe, alt: "icon" }),
@@ -21173,7 +21173,7 @@ const rUe = "/assets/01-XMyin-J5.png",
                       "Learn More About PinLink’s Unique RWA-Tokenized DePIN Model & How It Reduces Cost & Increases Performance For AI Developers",
                   }),
                   Me.jsx("a", {
-                    href: "https://alexeys-organization-9.gitbook.io/pinlink-ai",
+                    href: "https://docs.pinlinkai.pro",
                     target: "_blank",
                     className: "button green",
                     children: "Read Docs",
@@ -137096,7 +137096,7 @@ const KAt = dst,
     },
     {
       name: "Stake",
-      path: "https://pinlink-ai-app-cs.vercel.app/",
+      path: "https://app.pinlink.pro",
       icon: iEt,
       restrictedToConnected: !0,
       comingSoon: !1,
@@ -137217,19 +137217,19 @@ const KAt = dst,
               children: "© 2025 PinLink • All Rights Reserved",
             }),
             Me.jsx("a", {
-              href: "https://x.com/pinlinkai",
+              href: "https://x.com/PinLinkAI_ETH",
               target: "_blank",
               rel: "nofollow noopener noreferrer",
               children: Me.jsx("img", { src: lSe, alt: "twitter-icon" }),
             }),
             Me.jsx("a", {
-              href: "https://t.me/Pinlinkai",
+              href: "https://t.me/PinLinkAI_ETH",
               rel: "nofollow noopener noreferrer",
               target: "_blank",
               children: Me.jsx("img", { src: cSe, alt: "tg-icon" }),
             }),
             Me.jsx("a", {
-              href: "https://alexeys-organization-9.gitbook.io/pinlink-ai",
+              href: "https://docs.pinlinkai.pro",
               rel: "nofollow noopener noreferrer",
               target: "_blank",
               children: Me.jsx("img", { src: uSe, alt: "gitbook-icon" }),
@@ -263858,7 +263858,7 @@ function xNt() {
           Me.jsxs(Sw, {
             element: Me.jsx(dEt, {}),
             children: [
-              Me.jsx(Sw, { path: "https://pinlink-ai-app-cs.vercel.app/", element: Me.jsx(yBt, {}) }),
+              Me.jsx(Sw, { path: "https://app.pinlink.pro", element: Me.jsx(yBt, {}) }),
               Me.jsx(Sw, {
                 path: "/mint",
                 element: Me.jsx(Oxe, { component: Me.jsx(vBt, {}) }),
